@@ -5,3 +5,6 @@ Nick Carraway = Our narrator and guide throughout the story. He's a Yale Univers
 Daisy Buchanan - a beautiful woman from Louisville, Kentucky, who was once in love with Gatsby. After promising to wait for Gatsby until the end of the war, she went on to marry Tom Buchanan.
 
 Thomas "Tom" Buchanan - a millionare who lives in East Egg, and Daisy's husband. Tom is an imposing man of muscular build with an arrogant demeanor. He was a football star at Yale University.
+
+Myrtle Wilson
+Tom's lover, whose lifeless husband George owns a run-down garage in the valley of ashes. Mrytle herself possesses a fierce vitality and desperately looks for a way to improve her situation. Unfortunately for her, she chooses Tom, who treats her as a mere object of his desire.
